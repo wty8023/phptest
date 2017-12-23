@@ -1,0 +1,14 @@
+留言板
+
+功能分析
+
+1.发表留言，修改留言，删除留言，留言搜索，留言列表，留言详情,点击率
+2.留言置顶，评论，点赞，私信
+3.转发，支付（接口）
+
+
+
+数据库->表->列名->值
+列名 数据类型 int char varchar date timestamp blob
+数据库建立(newblog)
+1:blog表（bid,title,content,time,hits)
